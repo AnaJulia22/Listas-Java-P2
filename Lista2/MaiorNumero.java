@@ -31,11 +31,11 @@ public class MaiorNumero {
         n2 = scanner.nextDouble();
 
         if (n1 > n2) {
-            System.out.printf("O maior e: ", n1);
+            System.out.println("O maior e: " + n1);
         } else if (n1 < n2) {
-            System.out.printf("O maior e: ", n2);
+            System.out.println("O maior e: " + n2);
         } else {
-            System.out.printf("Os numeros sao iguais");
+            System.out.println("Os numeros sao iguais");
         }
 
         scanner.close();
