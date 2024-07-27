@@ -1,1 +1,1 @@
-"# -Exercicios-BJL-Seq-" 
+# -Exercicios-BJL-Seq-
