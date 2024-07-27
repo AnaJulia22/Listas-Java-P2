@@ -26,7 +26,8 @@ public class Potencia {
             n2 = scanner.nextDouble();
             if (n1 <= 0) {
                 System.out.println("O primeiro número inserido é inválido. O número deve ser maior que zero.");
-            } else if (n2 <= 0) {
+            }
+            if (n2 <= 0) {
                 System.out.println("O segundo número inserido é inválido. O número deve ser maior que zero.");
             }
         }
